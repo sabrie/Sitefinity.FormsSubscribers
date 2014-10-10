@@ -1,0 +1,4 @@
+﻿<%@ ServiceHost Language="C#" 
+    Debug="true" 
+    Service="SitefinityWebApp.CustomServices.FormsServiceExtended" 
+    Factory="Telerik.Sitefinity.Web.Services.WcfHostFactory" %>
